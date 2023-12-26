@@ -4,13 +4,13 @@ importScripts('https://www.gstatic.com/firebasejs/3.9.0/firebase-messaging.js');
 // Initialize the Firebase app in the service worker by passing in the
 // messagingSenderId.
 firebase.initializeApp({
-  apiKey: "AIzaSyBh7mf_dbhJHgl8cAC0X1kasLCffjy0H0w",
-  authDomain: "paint-edbba.firebaseapp.com",
-  projectId: "paint-edbba",
-  storageBucket: "paint-edbba.appspot.com",
-  messagingSenderId: "204823810403",
-  appId: "1:204823810403:web:465045266f799b2e788356",
-  measurementId: "G-CYJNWZM99X"
+  apiKey: "xxxx",
+  authDomain: "xxxx",
+  projectId: "xxxx",
+  storageBucket: "xxxx",
+  messagingSenderId: "xxxx",
+  appId: "xxx",
+  measurementId: "xxxx"
 
 });
 
