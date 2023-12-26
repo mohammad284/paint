@@ -1,12 +1,12 @@
 // Your web app's Firebase configuration
 var firebaseConfig = {
-    apiKey: "AIzaSyA8jTyZ4QC-38k0TNguJv9V0X_WBX7qt5M",
+    apiKey: "xxxxxxx",
     authDomain: "malerdienstleistung.firebaseapp.com",
     projectId: "malerdienstleistung",
     storageBucket: "malerdienstleistung.appspot.com",
-    messagingSenderId: "213386694240",
-    appId: "1:213386694240:web:cc8da5ff05a1303a24fd05",
-    measurementId: "G-TS7BF2VXJ1"
+    messagingSenderId: "xxxx",
+    appId: "xxxx",
+    measurementId: "xxxx"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
